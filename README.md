@@ -6,6 +6,11 @@ open compand line or terminal and clone repo to your directory
 git clone https://github.com/nisaofee/todo-app-example.git
 ```
 
+go to project directory
+```sh
+cd todo-app-example
+```
+
 run install dependencies
 ```sh
 npm install
